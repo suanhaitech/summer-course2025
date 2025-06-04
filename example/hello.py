@@ -1,8 +1,3 @@
 print("Hello,world!")
-
-print("I am zhangxinyu")
-print("wo shi yi ming yan yi xue sheng.")
-
-print("Hello!I am wanghongtian!")
-print("hello,I am liyangyi")
-print("2 line")
+print("second line")
+print（"thied line"）
